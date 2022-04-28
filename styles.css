@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', cursive;
+    
+}
+
+.story {
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: lightpink;
+    font-size:40px;
+    font-family: 'Times New Roman';
+}
+
+.directions-container {
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #EDCBFE;
+font-family: 'Times New Roman', cursive;
+    font-size:16px;
+}
+
+.stories-ticker {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/236x/da/a2/7c/daa27c8a10d86901dca6861e2ecf5d7b--cute-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h2{
+    font-family: 'Times New Roman', cursive;
+}
+
+button{
+    font-family: 'Times New Roman', cursive;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    font-size:18px;
+}
